@@ -1,0 +1,7 @@
+.DS_Store
+
+#asterick reqpresents anything. so any temporary vim file with a tilde after if will be ignored.
+*~
+
+#ignore any tmp directories like this
+tmp/
